@@ -1,13 +1,13 @@
-
 import './App.css'
+import Layout from './layouts/Layout';
 
 function App() {
   
 
   return (
-    <>
-      <h1>Hello</h1>
-    </>
+    <div className="App">
+      <Layout />
+    </div>
   )
 }
 
