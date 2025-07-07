@@ -13,6 +13,9 @@ build/
 # dotenv environment variables
 .env
 .env.*
+# Backend dotenv
+backend/.env
+
 
 # VS Code settings
 .vscode/
